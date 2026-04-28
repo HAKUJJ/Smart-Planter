@@ -2,9 +2,6 @@
 
 ระบบดูแลต้นไม้อัตโนมัติที่ช่วยตรวจสอบสภาพแวดล้อมและรดน้ำต้นไม้ พร้อมระบบโต้ตอบกับผู้ใช้งานผ่านหน้าจอแสดงอารมณ์ (Emotes) และการควบคุมผ่านระบบ Cloud
 
-**Developer:** ธิติวุฒิ ทางธนกุล (Student ID: 1660704642)  
-**Institution:** School of Information Technology and Innovation, Bangkok University  
-
 ## ✨ Features
 * **Automated Watering System:** ระบบรดน้ำอัตโนมัติเมื่อดินมีความชื้นต่ำกว่า 30%
 * **Interactive UI:** แสดงผลอารมณ์ของต้นไม้ (มีความสุข / เศร้า) ผ่านจอ OLED 0.96"
